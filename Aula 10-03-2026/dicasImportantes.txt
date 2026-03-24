@@ -1,0 +1,54 @@
+*****************************************************
+**** Site para baixar o GitBash
+*****************************************************
+
+https://git-scm.com/install/windows
+
+Dica: Instalar com vcscode fechado , assim que instalar abrir
+o vscode e no terminal:
+
+1º Na SETINHA do lado +
+2º Clique em Select Default Profile,
+3º Na parte de superior vai aparecer os terminais clique em Git Bash
+4º Clique na LIXEIRA do terminal e abra novamente o Git Bash vai ficar padrão.
+
+***************************************
+Extensões do VSCode
+
+**** Emulador de uma página web
+***************************************
+Live Server
+
+***** Icones de pastas e arquivos
+
+Material Icon Theme
+
+
+***************************************
+Sites Uteis:
+***************************************
+
+
+**** Lorem Ipsum de conteudo textual
+
+https://www.lipsum.com/
+
+**** Sites para imagens/videos/gifs gratuitas
+
+https://unsplash.com/
+
+https://pixabay.com/pt/
+
+https://br.freepik.com/
+
+**** Sites de Icones
+
+https://icons8.com.br/
+
+https://www.flaticon.com/br/icones-gratis/favicon
+
+*****************************************************
+**** Site para treinar Digitação de Programação
+*****************************************************
+
+https://digitacode.welltecnic.com.br/
