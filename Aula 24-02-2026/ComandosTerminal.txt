@@ -1,0 +1,26 @@
+Em 1981, Tim Parterson vende os direitos de autor por $50.000 à Microsoft,
+QDOS ("Quick and Dirty Operating System")
+
+Teclado com base nas maquinas de datilograr
+Média de 104 teclas podendo chegar a 108
+Modelo QWERTY(brasil)
+PADRÃO DE ABNT(MAIS ANTIGO) E ABNT2 = ABNT POSSUI O ALT GR
+
+
+Compactar Arquivos
+
+* INFORMATICA RAIZ
+   cmd - PROMPT DE COMANDO
+   tree - Arvóre de Estrutura do windows
+   dir /w /s - Efeito Matriz
+   dir-LISTA DIRETÓRIOS
+   mkdir - CRIA DIRETÓRIOS
+   cd + Nome do diretorio- ENTRA DIRETÓRIOS
+   cd.. VOLTA DIRETÓRIOS
+   type nul > nomedoarquivo.txt - CRIA O ARQUIVO
+   copy con nomedoarquivo.txt - cria um arquivo com um texto dentro use enter e ctrl + C para gravar
+   del- apaga arquivos
+   rd + nome do diretorio - apaga diretório
+   rename "teste.txt" "alter.txt" - renomear arquivo
+   systeminfo- mostra a configuração do computador
+   cls - limpa a tela
