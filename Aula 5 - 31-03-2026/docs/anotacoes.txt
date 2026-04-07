@@ -1,0 +1,11 @@
+tipos de condicionais:
+
+- if
+
+- if/else
+
+- Encadeado -> if/else if/else
+
+- Switch case
+
+- Ternario
