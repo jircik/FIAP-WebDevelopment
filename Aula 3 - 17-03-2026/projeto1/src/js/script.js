@@ -1,1 +1,1 @@
-// script.js file
+// index.js file
