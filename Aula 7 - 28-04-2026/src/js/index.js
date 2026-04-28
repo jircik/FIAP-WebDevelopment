@@ -21,3 +21,10 @@ console.log(texto2);
 const texto3 = texto2.join(" "); //junta um string[] em uma string separando os indices pelo caractere selecionado
 
 
+
+const precoProduto = 199.99;
+const desconto = 0.15;
+
+const precoFinal = precoProduto * (1 - desconto);
+console.log(precoFinal);
+console.log(`R$ ${precoFinal.toFixed(2)}`); //limita os decimais a quantas casas forem selecionadas
