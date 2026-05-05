@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="./src/css/style.css">
+</head>
+<body>
+    <header>
+        <h2 id="titulo">Titulo Original</h2>
+        <h1>Meu App Produtos</h1>
+    </header>
+    <main class="container">
+        <div class="btns">
+            <button onclick="todosProdutos(produtos)">Mostrar todos (map)</button>
+            <button onclick="filtarPromocoes(produtos)">apenas promoções (filter)</button>
+            <button onclick="calcularTotal()">calcular total (reduce)</button>
+        </div>
+
+        <div id="listar-produtos" class="produtos"></div>
+        <div id="resultado-total"></div>
+    </main>
+</body>
+<script src="./src/js/index.js"></script>
+</html>
