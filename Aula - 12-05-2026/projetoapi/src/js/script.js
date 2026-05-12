@@ -1,10 +1,8 @@
-//declarações
 const videoElemento = document.getElementById('video');
 const botaoScanner = document.getElementById('btn-texto');
 const resultado = document.getElementById('resultado');
 const canvas = document.getElementById('canvas');
 
-//função para habilitar camera
 async function configurarCamera(){
     try{
         videoElemento.srcObject = await navigator.mediaDevices.getUserMedia({
